@@ -1,0 +1,2 @@
+# codecorn
+Latihan javascript
